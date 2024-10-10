@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPconverter_Subnetting_Program", "IPconverter_Subnetting_Program\IPconverter_Subnetting_Program.csproj", "{513F218F-E31B-4B62-BCC1-ECA524DF9992}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{513F218F-E31B-4B62-BCC1-ECA524DF9992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{513F218F-E31B-4B62-BCC1-ECA524DF9992}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{513F218F-E31B-4B62-BCC1-ECA524DF9992}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{513F218F-E31B-4B62-BCC1-ECA524DF9992}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B33FA94-C12C-4589-A20E-03C3BFEF991E}
+	EndGlobalSection
+EndGlobal
